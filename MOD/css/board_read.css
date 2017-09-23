@@ -1,0 +1,12 @@
+*{margin:0; padding:0; color:dimgrey;}
+table{ margin:0 auto;}
+#tab{width:780px; margin-top:150px;}
+.name{height:30px; font-size:20px;}
+.title{font-size:30px; height:60px;}
+.date{height:30px;font-size:15px;}
+#hr{border-top:1px solid dimgrey;border-bottom:1px solid #f3f3f3;}
+.content{width:780px;height:400px;overflow:auto; overflow-x: hidden; font-family:inherit;white-space: pre-line;word-wrap: break-word;}
+a{text-decoration:none;}
+a:hover{text-decoration:underline;}
+input{width:500px; height:50px; border:none; border:1px solid #ddd;}
+button{width:150px; height:50px; border:none; background-color:#f9690e; color:#fff;cursor: pointer;}

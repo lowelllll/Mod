@@ -1,0 +1,7 @@
+*{margin:0; padding:0; font-family: 'Montserrat', sans-serif;}
+.wrap{width:100%;position:relative;}
+.content{width:400px; margin:0 auto; margin-top:18%; display:block; }
+.mod{font-size:150px; color:#f9690e; font-weight:bold;}
+button{width:180px; height:30px; margin-left:10px; border:2px solid #f9690e; background-color:#fff; color:#f9690e; border-radius:5px; font-size:15px; cursor:pointer;}
+button:hover{background-color:#f9690e; color:#fff;  transition:all 0.6s;
+box-shadow: 4px 4px 5px #ddd;}

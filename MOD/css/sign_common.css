@@ -1,0 +1,12 @@
+*{margin:0; padding:0;font-family: 'Montserrat', sans-serif;}
+.title{width:120px;height:60px;text-align:center; border:none; background-color:#f9690e; color:#fff;}
+input{height:60px;width:250px; border:none; border-bottom:1px solid #ddd;}
+.phone{height:20px; width:50px;}
+.find{width:90px; height:40px; background-color:#f9690e;  border-radius:3px; color:#fff; cursor:pointer;}
+.find:hover{box-shadow: 3px 3px 3px #ddd;}
+.hrhr{border-bottom:1px solid #ddd;}
+h2{color:#444749;}
+button{width:120px; height:40px;  background-color:#f9690e; color:#fff; border-radius:3px; font-size:15px; cursor:pointer; margin-top:10px; border:none;}
+button:hover{background-color:#444749; color:#fff;  transition:all 0.2s;
+box-shadow: 4px 4px 5px #ddd;}
+form{width:500px; height:650px; margin:0 auto; margin-top:150px;}

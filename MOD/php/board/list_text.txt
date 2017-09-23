@@ -1,0 +1,11 @@
+$no = 페이지가 시작되는 첫글의 순번
+$page_size = 한페이지당 보여줄 게시물의 수 20
+$pase_list_size=페이지 리스트에 보여줄 페이지의 수
+$total_row = 게시글의 수
+$total_page=페이지의 수 
+$current_page=현재 페이지의수 0
+
+$start_page=페이지 리스트에서 첫번째 페이지0
+$end_pag= 페이지 리스트 마지막페이지0
+$prev_list = 이전페이지리스트
+$next_list= 다음페이지 리스트 
